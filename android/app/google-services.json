@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "296794243037",
+    "project_id": "rohit-flutter-car-rental",
+    "storage_bucket": "rohit-flutter-car-rental.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296794243037:android:7055bf3f0a130029bcc034",
+        "android_client_info": {
+          "package_name": "com.rohit.car.rental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnqaXJlbYlbMnMcNjETPHyVsSvGYK9has"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
